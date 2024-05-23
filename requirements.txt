@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+networkx
+seaborn
+numpy
+graphviz
+requests
+re
+IPython
+matplotlib
+collections
